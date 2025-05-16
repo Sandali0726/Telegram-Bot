@@ -59,9 +59,6 @@ python-telegram-bot
    ```bash
    python main.py
    ```
-
-> _Replace `main.py` with the actual entry-point script name._
-
 ---
 
 ## ☁️ Deployment (Railway)
